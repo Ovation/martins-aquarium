@@ -1,0 +1,20 @@
+.main {
+    display:flex;
+
+}
+header {
+    background-color: gray;
+}
+.title {
+    text-align:center;
+}
+body {
+    background-color: rgb(146, 146, 146);
+}
+.main_left {
+    background-color: rgb(165, 165, 250)
+}
+
+footer {
+    background-color: rgb(165, 165, 165);
+}
