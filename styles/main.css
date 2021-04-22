@@ -1,20 +1,39 @@
-.main {
-    display:flex;
 
-}
+
 header {
-    background-color: gray;
+    background-color:aquamarine;
+    border: 1px solid black;
 }
 .title {
     text-align:center;
 }
+main {
+    display:flex;
+}
 body {
-    background-color: rgb(146, 146, 146);
+    background-color:aqua;
 }
 .main_left {
     background-color: rgb(165, 165, 250)
 }
+article {
+    border:1px solid black;
+}
+.fish_section {
+    border: 1px solid black;
+}
+
+.main_right {
+margin-left:443px;
+}
+
+.care_tips {
+    background-color:beige;
+    border: 1px solid black;
+}
 
 footer {
     background-color: rgb(165, 165, 165);
+    border: 1px solid black
 }
+
